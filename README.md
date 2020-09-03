@@ -1,2 +1,3 @@
-# TripleX-Unreal-Course
-A simple number puzzle game to start using C++ in the Unreal course.
+# Unreal Engine Developer Course - Triple X Game
+Learn basics of C++ “syntax”.
+
